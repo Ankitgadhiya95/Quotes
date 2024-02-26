@@ -1,0 +1,252 @@
+[
+  {
+    "catId": 1,
+    "catName": "Alone",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "Life is only a long and bitter suicide, and faith alone can transform this suicide into a sacrifice.",
+        "isFav": false,
+        "img": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_640.jpg"
+      },
+      {
+        "quoteId": 2,
+        "quote": "In any great organization it is far,far safer to be wrong with the majority than to be right alone.",
+        "isFav": false,
+        "img": "https://addons-media.operacdn.com/media/CACHE/images/themes/95/78195/1.0-rev1/images/f1b54fe9-e138-44e6-929b-182bb1e82a68/8b7b9410c460548223847494208085d9.jpg"
+      },
+      {
+        "quoteId": 3,
+        "quote": "The perfection of Christian character depends wholly upon the grace and strength found alone in god",
+        "isFav": false,
+        "img": "https://wallpapercave.com/wp/wp12303203.jpg"
+      }
+    ]
+  },
+  {
+    "catId": 2,
+    "catName": "Angry",
+    "catEmoji": "Assets/emoji/angry.png",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "Bitterness is like cancer. It eats upon the host. But anger is like fire. It burns it all clean.",
+        "isFav": false,
+        "img": "https://addons-media.operacdn.com/media/CACHE/images/themes/95/78195/1.0-rev1/images/f1b54fe9-e138-44e6-929b-182bb1e82a68/8b7b9410c460548223847494208085d9.jpg"
+      },
+      {
+        "quoteId": 2,
+        "quote": "Anger is not always bad, sometimes it is your only option.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "I don’t have an attitude problem, I have a personality you can’t handle.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 3,
+    "catName": "Anniversary",
+    "catEmoji": "Assets/emoji/Anniversary.png",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "Finding a love like yours feels like a dream. Please don't wake me up!",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "I read a lot of books, but our love story is my favorite.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Every day, every month, and every year... I love you more than the last.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 4,
+    "catName": "Attitude",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "It makes a big difference in your life when you stay positive.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "Building a positive attitude begins with having confidence in yourself.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Positive thinking will let you do everything better than negative thinking.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 5,
+    "catName": "Awesome",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "The only thing we have to fear is fear itself.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 6,
+    "catName": "Beard",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "True Love story is like a beard of men. It never ends, it only grows..!!",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "Love your man love his beard",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "I don’t have many hobbies, but my beard collects bras. ",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 7,
+    "catName": "Beautiful",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "The purpose of our lives is to be happy.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Money and success don’t change people; they merely amplify what is already there.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 8,
+    "catName": "Bike",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "It wasn’t until I went to college and I got the first motorcycle that I understood the thrill of speed.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "I believe there are two periods in life, one for the bike, the other for becoming active on one’s work.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "God didn’t create metal so that man could make paper clips!",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catName": "Birthday",
+    "catEmoji": "",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "Today a true queen was born and I’m so happy to be in your court.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "Happy birthday to my gorgeous, smart, and loyal friend. Live your best life!",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Without you, my therapy bills would be outrageous! Happy birthday, BFF.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  },
+  {
+    "catId": 10,
+    "catName": "Busy",
+    "catEmoji": "Assets/emoji/busy.png",
+    "quote": [
+      {
+        "quoteId": 1,
+        "quote": "No matter how busy you are, you must take time to make the other person feel important.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 2,
+        "quote": "America is not just a country, it's an idea, and real Americans are getting busy.",
+        "isFav": false,
+        "img": ""
+      },
+      {
+        "quoteId": 3,
+        "quote": "Some people are so busy learning the tricks of the trade that they never learn the trade.",
+        "isFav": false,
+        "img": ""
+      }
+    ]
+  }
+]
