@@ -1,16 +1,17 @@
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/1.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/2.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/3.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/4.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/5.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/6.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/7.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/8.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/9.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/10.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/11.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/12.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/13.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/14.jpg" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/Quotes/blob/main/Output/15.jpg" height="500"/>
+</p>
